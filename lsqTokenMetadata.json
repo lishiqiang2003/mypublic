@@ -1,0 +1,12 @@
+{
+  "name": "LsqToken",
+  "symbol": "LSQ",
+  "description": "This is my custom token.",
+  "image": "https://example.com/token_image.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Custom"
+    }
+  ]
+}
