@@ -2,7 +2,7 @@
   "name": "LsqToken",
   "symbol": "LSQ",
   "description": "This is my custom token.",
-  "image": "https://example.com/token_image.png",
+  "image": "https://lishiqiang2003.github.io/mypublic/logo.jpeg",
   "attributes": [
     {
       "trait_type": "Type",
